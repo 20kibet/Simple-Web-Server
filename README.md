@@ -1,4 +1,4 @@
-# 🐍 Simple-Web-Server
+# Simple-Web-Server
 
  # Project Files
 `server.py`: Contains the Python application code** that sets up and runs the web server. It handles incoming HTTP requests.
@@ -10,7 +10,6 @@
 You only need Python installed on your system.
 
 # Steps
-
 Ensure all Files are in the Same Directory
 Execute the Script: Open your terminal or command prompt in the project directory and run:
 python server.py
