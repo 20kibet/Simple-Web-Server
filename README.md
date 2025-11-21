@@ -1,4 +1,4 @@
-# Simple-Web-Server
+#  Simple-Web-Server
 
  # Project Files
 `server.py`: Contains the Python application code** that sets up and runs the web server. It handles incoming HTTP requests.
