@@ -10,14 +10,10 @@
 You only need Python installed on your system.
 
 # Steps
-
-1. **Ensure all files are in the same directory**
-
-2. **Execute the script**  
-   Open your terminal or command prompt in the project directory and run:  
-   ```bash
-   python server.py
-
-3. **Access the website**
-   The server will start listening on port 8080.
-    Open your web browser and navigate to: http://127.0.0.1:8080
+Ensure all Files are in the Same Directory
+Execute the Script: Open your terminal or command prompt in the project directory and run:
+python server.py
+Access the Website: The server will start listening on port `8080`. Open your web browser and navigate to the following URL:
+    ```
+    [http://127.0.0.1:8080](http://127.0.0.1:8080)
+    ```
