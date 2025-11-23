@@ -1,7 +1,14 @@
 import os
 
 class StaticFileHandler:
-    def __init__(self, static_dir="static"):
+    def __init__(self, static_dir="."):
+        """
+        Static file handler.
+
+        Default `static_dir` is the project root (".") so files like
+        `index.html`, `style.css` and `script.js` placed in the repository
+        root are served without moving them into a `static/` folder.
+        """
         self.static_dir = static_dir
         
     def handle_request(self, path):
